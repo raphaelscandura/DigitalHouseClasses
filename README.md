@@ -1,0 +1,10 @@
+<h3>About the files you will find in this repository</h3>
+<p>This repository contains a few of the exercises that were done in class during my Full Stack Web Development course at Digital House Brazil. They are very simple exercises that were meant to showcase the student how a few of the elements and tools of web developing work.</p>
+
+<h3>About Digital House Coding School Brazil</h3>
+
+<p>Digital House is an argentinian organization that aims to provide professional and specialized I.T. training for it's students. In 2017 they opened their first branch in Brazil, where they adapted their courses to better attend the Brazilian market, but kept offergin dynamic classes with up to date material with their personalized intensive teaching methods. Digital House's main goal is to train new professionals to the I.T. market, mentoring them with professional networking with key players and senior professionals in the area.</p>
+
+<h3>About the Full Stack Web Development course at Digital House</h3>
+
+<p>In the course, the student was taught many soft and hard skills in the Web Development area. Between the many hard skills there were HTML5 and CSS3, the most popular tools for front end development, besides the usage of the CSS framework Bootstrap and Javascript for interactive browsing. In the back end portion of the course, the student was presented with PHP and many of its functions and tools, they were trained and taught about how the language worked in the most important parts of a website. After the student proved to have a good knowledge of PHP, he would be presented with Laravel, the most used framework for PHP, and were taught what Laravel is, and what it can do, showcasing many of its functions and tools. The student was also taught how to create and manipulate databases with MySQL, use NPM and much more. Now, in the soft skills section, there were many classes to teach the student SCRUM and Agile Software Development, besides the mentoring of how the I.T. area operates in the corporate world.</p>
