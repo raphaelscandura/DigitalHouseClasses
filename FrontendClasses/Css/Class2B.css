@@ -1,0 +1,12 @@
+body{
+    background-color: green;
+}
+
+.formulario{
+    border: 3px solid black;
+    background-color: white;
+    padding: 10px;
+    margin: 300px 750px;
+    width: 350px;
+
+}

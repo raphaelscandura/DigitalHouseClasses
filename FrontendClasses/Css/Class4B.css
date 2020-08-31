@@ -1,0 +1,10 @@
+div {
+    background-color: lightblue;
+    padding-top: 10px;
+    padding-bottom: 10px;
+} 
+
+.row > [class*="col-"] > * {
+    min-height: 100px;
+    background-color: blue;
+}

@@ -1,0 +1,29 @@
+body{
+  font-family: sans-serif;
+  font-size: 18px;
+  width: 700px;
+}
+
+.paragrafo{
+  text-decoration-color: #333;
+  line-height: 27px;
+  font-family: 'Verdana', 'Geneva';
+}
+
+.titulo{
+  line-height: 46px;
+  text-align: center;
+  text-decoration-color: #000000;
+  font-size: 37px;
+  font-family: 'Tahoma', 'Helvetica';
+}
+
+.subtitulo{
+  font-size: 25px;
+  line-height: 38px;
+  font-family: 'Tahoma', 'Helvetica';
+  }
+
+.links{
+  text-align: center;
+}

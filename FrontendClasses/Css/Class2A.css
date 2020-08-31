@@ -1,0 +1,13 @@
+body{
+    background-color: green;    
+}
+
+.modal{
+    border: 5px solid black;
+    float: right;
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    margin: 300px 750px;
+    box-sizing: border-box;
+}

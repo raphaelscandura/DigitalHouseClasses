@@ -1,0 +1,72 @@
+* {
+    box-sizing: border-box;
+}
+
+footer {
+    background-color: #181818;
+}
+
+footer a {
+    color: white;
+}
+
+p {
+    z-index: 2;
+    position: relative;
+}
+
+body, html {
+    margin: 0;
+}
+
+.lista-em-linha {
+    padding: 0;
+    margin: 0;
+}
+.lista-em-linha li {
+    padding: 0;
+    display: inline-block;
+}
+
+.logo {
+    width: 150px;
+    margin: -15px 0;
+}
+
+.logo.header {
+    float: left;
+}
+.logo.footer {
+    float: right;
+}
+
+.lista-cabecalho {
+    float: right;
+}
+
+.lista-cabecalho li {
+    padding: 20px;
+}
+
+.lista-footer li {
+    float: left;
+    padding: 20px;
+}
+
+
+.container {
+    width: 1024px;
+    margin: auto;
+    overflow: hidden;
+}
+
+img {
+    max-width: 100%;
+}
+
+.materia {
+    width: 256px;
+    float: left;
+    padding: 0 10px;
+}
+
